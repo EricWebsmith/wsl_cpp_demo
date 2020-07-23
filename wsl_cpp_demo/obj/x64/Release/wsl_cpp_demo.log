@@ -1,0 +1,5 @@
+﻿  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  wsl_cpp_demo.vcxproj -> D:\projects\wsl_cpp_demo\wsl_cpp_demo\bin\x64\Release\wsl_cpp_demo.out

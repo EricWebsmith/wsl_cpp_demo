@@ -1,0 +1,1 @@
+g++ -o "/mnt/d/projects/wsl_cpp_demo/wsl_cpp_demo/bin/x64/Release/wsl_cpp_demo.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /mnt/d/projects/wsl_cpp_demo/wsl_cpp_demo/obj/x64/Release/main.o
